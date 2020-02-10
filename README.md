@@ -3,6 +3,12 @@
 
 This project is a single page applications(SPAs) written by javascript. The content of this project is a general social media and discussion website like reddit. Features such as Login, Registration, write new post and etc.. are successful implemented. As this is a frontend project, all the code and database in backend are provided by default. 
 
+
+display:
+![alt text][view]
+
+[view]: https://github.com/r0bertLiu/reliable-transport-protocol/blob/master/img/structure.png "overall stucture"
+
 ## Usage
 start backend by:
 ```
@@ -50,20 +56,20 @@ Users can upload and post new content. The uploaded content can either be text, 
 **Profile**:
 Users can see their own profile information such as username, number of posts, number of upvotes across all posts, profile pic.
 
-**Infinite Scroll**
+**Infinite Scroll**:
 users an infinitely scroll through the "posts" they are viewing. which means load posts as you scroll. 
 
-**User Pages**
+**User Pages**:
 Let a user click on a user's name/picture from a post and see a page with the users name, profile pic, and other info.
 The user should also see on this page all posts made by that person across all "subseddits".
 The user should be able to see their own page as well.
 
 ## functions waiting to be update
-**Follow**
+**Follow**:
 Let a user follow/unfollow another user.
 
-**Delete/Update Post**
+**Delete/Update Post**:
 Let a user update a post they made or delete it
 
-**Search functionality**
+**Search functionality**:
 Let a user search for a post, user or subseddit.
