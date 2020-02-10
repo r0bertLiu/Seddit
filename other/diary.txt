@@ -1,0 +1,13 @@
+Date		 Start	 Stop	 Activity		Comments
+02/08/19     18:00   20:15   reading		read the inspection of assignments and run frontend and backend
+03/08/19     13:00	 19:00	 coding			Level 0/ login and Registration
+04/08/19     15:00	 22:03	 coding			Level 0/ public Feed Interface (except comment)
+05/08/19     13:00	 19:03	 coding			Level 1/ fetching data from backend
+05/08/19     20:00	 23:03	 coding			Level 2/ Show Upvotes
+07/08/19     15:30	 23:03	 coding			Level 2/ Show Upvotes
+08/08/19	 12:30	 21:15	 coding			Level 2/ Show comments, Upvote, Profile
+11/08/19	 13:30	 16:05	 coding			Level 2/ Post new content
+11/08/19	 16:30	 23:05	 coding			Level 3/ Infinite Scroll
+12/08/19	 13:30	 17:05	 coding			Level 3/ User Pages, Live Update
+12/08/19	 17:30	 21:05	 coding			Level 3/ Comments 
+13/08/19	 11:30	 19:05	 debuging		debug the whole SPA
