@@ -31,20 +31,28 @@ On browser type the username and passpoert given by the server and start the SPA
 the features have been realized in this project are shown as below:
 **Login**: 
 login by the username and passport > in backend/db/users.csv there are some default user could be used for test
+
 **Registration**: 
 use a set of credentials (a username / password pair) create new account in database
+
 **Feed Interface**: 
 user can saw the posts which created by their following. 
+
 **upvotes/downvotes**: 
 user can upvote or downvote a post and see who have upvotes this posts as well.
+
 **Show/write Comments**: 
 user can see the comments of posts and add new comment as well
+
 **Post new content**: 
 Users can upload and post new content. The uploaded content can either be text, an image, or a combination of both.
+
 **Profile**:
 Users can see their own profile information such as username, number of posts, number of upvotes across all posts, profile pic.
+
 **Infinite Scroll**
 users an infinitely scroll through the "posts" they are viewing. which means load posts as you scroll. 
+
 **User Pages**
 Let a user click on a user's name/picture from a post and see a page with the users name, profile pic, and other info.
 The user should also see on this page all posts made by that person across all "subseddits".
@@ -58,6 +66,4 @@ Let a user follow/unfollow another user.
 Let a user update a post they made or delete it
 
 **Search functionality**
-
-
 Let a user search for a post, user or subseddit.
