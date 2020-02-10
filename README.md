@@ -3,11 +3,7 @@
 
 This project is a single page applications(SPAs) written by javascript. The content of this project is a general social media and discussion website like reddit. Features such as Login, Registration, write new post and etc.. are successful implemented. As this is a frontend project, all the code and database in backend are provided by default. 
 
-
-display:
-![alt text][view]
-
-[view]: https://github.com/r0bertLiu/reliable-transport-protocol/blob/master/img/structure.png "overall stucture"
+See a simple view in *other* folder
 
 ## Usage
 start backend by:
