@@ -5,11 +5,7 @@ This project is a single page applications(SPAs) written by javascript. The cont
 
 ## Usage:
 start backend by:
-```bash
-# set up sandbox
+```
 pip install -r requirements.txt
-# run backend! Will print out a bunch of info including a line like this:
-#  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-# visit the url on this line (e.g. http://127.0.0.1:5000/) to see the backend docs!
 python backend_server.py
 ```
